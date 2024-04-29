@@ -1,5 +1,5 @@
 # frenzy-app-monitor
-Request-based Java application leveraging threads, API integration, HTML scraping, and OCR techniques to monitor and notify users of limited merchandise released via Frenzy Shopping App
+Request-based Java application leveraging threads, API integration, and HTML scraping to monitor and notify users of limited merchandise released via Frenzy Shopping App
 
 Specifically, this project monitored:
 - New product releases on Frenzy
