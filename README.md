@@ -10,3 +10,6 @@ Specifically, this project monitored:
   - If it was pickup only,
   - If there was global shipping,
   - What coordinates your phone had to be in to access the drop (many products were geo-locked, project would provide you exact coordinates you could spoof your location to)
+ 
+
+  (Source code was lost with a hardware failure and recovered from a decompiling the program jar file, comments unavailable/some formatting may look odd)
