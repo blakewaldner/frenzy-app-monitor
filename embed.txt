@@ -1,0 +1,32 @@
+{
+  "1": [
+    "ffb6c1",
+    "Example | @byHypeHQ",
+    "https://i.imgur.com/TBvaO3n.png",
+    "**REDACTED WEBHOOK**"
+  ],
+ "2": [
+    "C71D38",
+    "**REDACTED COMPANY** | @byHypeHQ",
+    "**REDACTED COMPANY PICTURE URL**",
+    "**REDACTED WEBHOOK**"
+  ],
+ "3": [
+    "809ffc",
+    "**REDACTED COMPANY** | @byHypeHQ",
+    "**REDACTED COMPANY PICTURE URL**",
+    "**REDACTED WEBHOOK**"
+  ],
+ "4": [
+    "5753cd",
+    "**REDACTED COMPANY** | @byHypeHQ",
+    "**REDACTED COMPANY PICTURE URL**",
+    "**REDACTED WEBHOOK**"
+  ],
+"5": [
+    "ffb6c1",
+    "**REDACTED COMPANY** | @byHypeHQ",
+    "**REDACTED COMPANY PICTURE URL**",
+    "**REDACTED WEBHOOK**"
+  ]
+}

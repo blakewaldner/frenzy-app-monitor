@@ -1,0 +1,4 @@
+{
+  "delay":"1200",
+  "session":"**REDACTED SESSION TOKEN**"
+}
